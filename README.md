@@ -21,19 +21,11 @@ NLTK
 
 Pandas / NumPy
 
-📂 Project Structure
-
-📦 Sentiment_Analysis
- ┣ 📜 sentiment_analysis.py  
- ┣ 📜 requirements.txt  
- ┣ 📜 README.md  
- ┗ 📂 dataset  
-     ┗ reviews.csv
 🚀 How to Run
 Clone the repository
 
 
-git clone https://github.com/your-username/Sentiment_Analysis_Project.git
+git clone https://github.com/zeelShah-12/Sentiment_Analysis_Project.git
 cd Sentiment_Analysis_Project
 Install dependencies
 
