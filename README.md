@@ -33,8 +33,6 @@ Install dependencies
 pip install -r requirements.txt
 Run the script
 
-
-python sentiment_analysis.py
 📊 Example Output
 
 predict_sentiment("I absolutely loved this movie!")  # Positive  
