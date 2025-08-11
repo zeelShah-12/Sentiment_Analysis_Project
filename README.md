@@ -1,4 +1,5 @@
 Sentiment Analysis Project
+
 📌 Overview
 This project analyzes text data to determine whether the sentiment is Positive or Negative using Natural Language Processing (NLP) and Machine Learning techniques.
 It’s designed for movie reviews but can be adapted for product reviews, social media posts, or feedback analysis.
